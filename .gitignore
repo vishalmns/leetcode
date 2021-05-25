@@ -2,4 +2,5 @@
 algorithm/java/.idea/
 algorithm/java/out/
 .idea
-
+leetcode.iml
+out
